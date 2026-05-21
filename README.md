@@ -19,4 +19,4 @@ Com a nossa proposta, professores serão capazes de controlar o uso de celulares
 
 ## Exemplo de WireFrame
 WireFrames são esboços ou diagramas técnicos, que estruturam o modelo de sites/aplicativos, definindo a organização antes do modelo final.
-![WireFrame]
+![WireFrame](https://github.com/heitorangeli/HackTown_LER_uso_do_celular/blob/main/Wiframe%20honey%202.png?raw=true)
