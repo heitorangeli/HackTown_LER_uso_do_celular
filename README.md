@@ -16,3 +16,7 @@ Com a nossa proposta, professores serão capazes de controlar o uso de celulares
 |[Draw.io](https://app.diagrams.net/)|Diagramas/Wiframes|
 |[Canva](https://www.canva.com)|Site|
 |[Excel](https://excel.cloud.microsoft/)|Planilha de Gastos|
+
+## Exemplo de WireFrame
+WireFrames são esboços ou diagramas técnicos, que estruturam o modelo de sites/aplicativos, definindo a organização antes do modelo final.
+![WireFrame]
