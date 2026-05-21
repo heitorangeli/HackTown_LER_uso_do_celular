@@ -1,5 +1,12 @@
 # HackTown-LER-Uso do celular
 
+<br />
+<div align="center">
+<img src = ""width="250px">
+</div>
+
+<h3 align="center">HoneyComb</h3>
+
 Com a nossa proposta, professores serão capazes de controlar o uso de celulares de alunos, através de um aplicativo, com uma colmeia instalada na parede que comporta um espaço para cada celular de cada em cada sala do ensino fundamental 2 até o ensino médio, nessa mesma colmeia, será  implementada um aluno sensor, onde haverá um escâner que observará se os celulares estão ali dentro, e sinalizará aos funcionários caso não estejam, com isso, a Proposta garantirá o controle e cumprirá com as regras e combinados impostos adequadamente.
 
 | Nome | GitHub |
